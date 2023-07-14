@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firoz-nagaria&label=Profile%20views&color=0e75b6&style=flat" alt="firoz-nagaria" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=firoz-nagaria)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=firoz-nagaria" alt="firoz-nagaria" /></a> </p>
 
 - 🌱 I’m currently learning **PYTHON, TABLEAU, AWS,**
