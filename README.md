@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/firoz-nagaria](https://github.com/firoz-nagaria)
 
-- 💬 Ask me about **EXCEL, SQL, TABLEAU**
+- 💬 Ask me about **EXCEL, SQL, MySQL, SQLite, TABLEAU**
 
 - 📫 How to reach me **firoz.nagariya@gmail.com**
 
