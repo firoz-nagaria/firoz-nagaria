@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firoz Nagaria</h1>
 <h3 align="center">Attending Fullstack for Data Analytics|| Google Certified Data Analyst || SQL|| R Programming|| Tableau|| Spreadsheets||</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=firoz-nagaria)](https://github.com/ryo-ma/github-profile-trophy)
+[trophy][https://github-profile-trophy.vercel.app/?username=firoz-nagaria](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firoz-nagaria&label=Profile%20views&color=0e75b6&style=flat" alt="firoz-nagaria" /> </p>
 
